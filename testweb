@@ -1,5 +1,5 @@
 git init
-git remote add origin git@github.com:cnadybal/amplifyapp.git
+git remote add origin git@github.com:cnadybal/amplifyapp/testweb.git
 git add .
 git commit -m “initial commit”
 git push origin master
